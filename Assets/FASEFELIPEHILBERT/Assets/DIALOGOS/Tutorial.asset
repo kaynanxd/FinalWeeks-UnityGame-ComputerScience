@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ee1954a57db5a4cab6e719f406ddb0, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  startNodeID: inicio
+  nodes:
+  - nodeID: inicio
+    sentences:
+    - characterName: Gerardo
+      text: Vou explicar o basico para passar na prova
+      portrait: {fileID: -1044843768300669011, guid: 5b0fdcdc99b4e1245af8593960ab32b6, type: 3}
+      voiceSound: {fileID: 8300000, guid: 94509dfe0de428344844c69ab7913d1b, type: 3}
+    - characterName: Gerardo
+      text: 'Basicamente voce precisa apertar as notas ( A ,S ,D ,F ,G) no Tempo
+        Certo, Voce precisa analisar a porta logica certa na imagem a esquerda e
+        apertar SOMENTE a nota referente a essa porta logica quando o icone estiver
+        dentro da nota. Aqui as dicas sobre as 5 notas:'
+      portrait: {fileID: -1044843768300669011, guid: 5b0fdcdc99b4e1245af8593960ab32b6, type: 3}
+      voiceSound: {fileID: 8300000, guid: 94509dfe0de428344844c69ab7913d1b, type: 3}
+    - characterName: Gerardo
+      text: "AND: S\xF3 sai 1 se todas as entradas forem 1\nOR: Sai 1 se pelo menos
+        uma entrada for 1 \nNOT:  Inverte o que entra. (ex : Entra 1, sai 0)\nNAND:
+        oposto do AND, Sai 0 s\xF3 se todas as entradas forem 1\nXOR:  S\xF3 sai
+        1 se as entradas forem diferentes entre si.\n"
+      portrait: {fileID: -1044843768300669011, guid: 5b0fdcdc99b4e1245af8593960ab32b6, type: 3}
+      voiceSound: {fileID: 8300000, guid: 94509dfe0de428344844c69ab7913d1b, type: 3}
+    choices: []

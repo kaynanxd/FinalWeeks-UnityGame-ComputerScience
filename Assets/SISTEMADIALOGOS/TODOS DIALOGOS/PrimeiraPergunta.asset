@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ee1954a57db5a4cab6e719f406ddb0, type: 3}
+  m_Name: PrimeiraPergunta
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  startNodeID: inicio
+  nodes:
+  - nodeID: inicio
+    sentences:
+    - characterName: ismayle
+      text: Vamos ver se voce realmente aprendeu o conteudo !
+      portrait: {fileID: -5173085456471911758, guid: 7e8e84c8cf833c746bd999fb0087dc7c, type: 3}
+      voiceSound: {fileID: 8300000, guid: 978171ddf3ec45544b30fc895971e91f, type: 3}
+    - characterName: ismayle
+      text: Aqui vai a primeira pergunta !
+      portrait: {fileID: -5173085456471911758, guid: 7e8e84c8cf833c746bd999fb0087dc7c, type: 3}
+      voiceSound: {fileID: 8300000, guid: 978171ddf3ec45544b30fc895971e91f, type: 3}
+    - characterName: ismayle
+      text: "Enquanto voc\xEA jogava esse jogo, muito provavelmente voc\xEA perdeu
+        a no\xE7\xE3o do tempo, qual nome se d\xE1 ao efeito que os jogos da aos
+        seus jogadores quando isso acontece:"
+      portrait: {fileID: -5173085456471911758, guid: 7e8e84c8cf833c746bd999fb0087dc7c, type: 3}
+      voiceSound: {fileID: 8300000, guid: 978171ddf3ec45544b30fc895971e91f, type: 3}
+    choices:
+    - text: atencao focada
+      targetNodeID: acertou
+      externalDialogue: {fileID: 0}
+    - text: "Gamifica\xE7\xE3o"
+      targetNodeID: errou
+      externalDialogue: {fileID: 0}
+    - text: "Reten\xE7\xE3o"
+      targetNodeID: errou
+      externalDialogue: {fileID: 0}
+    - text: Foco competitivo
+      targetNodeID: errou
+      externalDialogue: {fileID: 0}
+  - nodeID: acertou
+    sentences:
+    - characterName: ismayle
+      text: Muito bem, parece que voce nao ficou so dormindo nas aulas, mas e apenas
+        o inicio
+      portrait: {fileID: -5173085456471911758, guid: 7e8e84c8cf833c746bd999fb0087dc7c, type: 3}
+      voiceSound: {fileID: 8300000, guid: 978171ddf3ec45544b30fc895971e91f, type: 3}
+    choices: []
+  - nodeID: errou
+    sentences:
+    - characterName: ismayle
+      text: Voce errou , Voce devia ter estudado mais ! Irei te perguntar novamente
+        daqui a pouco
+      portrait: {fileID: -5173085456471911758, guid: 7e8e84c8cf833c746bd999fb0087dc7c, type: 3}
+      voiceSound: {fileID: 8300000, guid: 978171ddf3ec45544b30fc895971e91f, type: 3}
+    choices: []

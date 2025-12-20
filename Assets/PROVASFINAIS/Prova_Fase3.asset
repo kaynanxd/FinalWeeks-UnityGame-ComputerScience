@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d320ab5bea86257459c7f1d54bac771c, type: 3}
+  m_Name: Prova_Fase3
+  m_EditorClassIdentifier: Assembly-CSharp::ExamData
+  tituloDaProva: Prova de extensao 2
+  notaMinimaParaAprovar: 3
+  questoes:
+  - enunciado: "PROVA FINAL DE EXTENSAO2\n\n1) De acordo com o documento que voc\xEA
+      acabou de ler qual seria o efeito da aten\xE7\xE3o focada"
+    alternativas:
+    - Isolar o jogador da realidade, focando-o apenas no jogo.
+    - "Mant\xEA-lo ciente do mundo real para evitar envolvimento."
+    - Termo para quando se joga sem fones de ouvido.
+    - "Sin\xF4nimo em ingl\xEAs para o movimento \"out zone\"."
+    indiceCorreto: 0
+  - enunciado: "2)Qual a sigla do sistema de avalia\xE7\xE3o comumente usado para
+      a avalia\xE7\xE3o de jogos antes de seu lan\xE7amento?"
+    alternativas:
+    - MEGGA+
+    - ' SAIG'
+    - 'MEGGA '
+    - ERSB ou IGN
+    indiceCorreto: 0
+  - enunciado: "3)Muitas vezes para evitar que a equipe tenha vis\xF5es diferentes
+      de algo que foi acordado para ser implementado dentro do jogo \xE9 criado uma
+      esp\xE9cie de documento para isso qual o seu nome?"
+    alternativas:
+    - DVG
+    - DGA
+    - GDI
+    - GDD
+    indiceCorreto: 3
+  - enunciado: "4)Para quem est\xE1 acostumado a jogar v\xE1rios jogos, muitas vezes
+      pode n\xE3o pensar aos nomes dado aos seus tipos de jogos existente, sabendo
+      disso op\xE7\xE3o correta sobre aos tipos de jogos."
+    alternativas:
+    - "jogo s\xE9rio, jodo de entretenimento, gamifica\xE7\xE3o, jogo esportivo "
+    - "jodo de entretenimento,jogo s\xE9rio, gamifica\xE7\xE3o, jogo de sorte"
+    - "gamifica\xE7\xE3o, jogo de entretenimento, jogo s\xE9rio, jogo azar"
+    - "simula\xE7\xE3o, jodo de entretenimento, gamifica\xE7\xE3o, jogo s\xE9rio"
+    indiceCorreto: 3
+  - enunciado: "5)Dado a defini\xE7\xE3o sobre cada um dos tipos de jogos responda
+      qual das op\xE7\xF5es abaixo relaciona com o jogo corretamente ."
+    alternativas:
+    - " jogo s\xE9rio \u2192 Carcar\xE1 Asas da Justi\xE7a"
+    - "jodo de entretenimento \u2192 Duolingo"
+    - "gamifica\xE7\xE3o \u2192 fifa22"
+    - " simula\xE7\xE3o \u2192 God of war"
+    indiceCorreto: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626e05ae1449df94e82432691d656da9, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  titulo: MEEGA+
+  textoCompleto: "Num mercado t\xE3o competitivo e intenso como o mundo dos jogos
+    se teve a necessidade de saber se o jogo desenvolvido estava bom ou n\xE3o para
+    ser lan\xE7ado e ainda onde estava o pontos forte do mesmo, seja at\xE9 mesmo
+    um jogo educativo \xE9 necess\xE1rio saber disso afinal tamb\xE9m se tem o lucro
+    que muitos desse jogos podem ou n\xE3o ter em vista, para isso se usa o MEGGA+
+    que pode avaliar tanto jogos digitais como jogos anal\xF3gicos, senod composto
+    por uma s\xE9rie de perguntas sobre \xE1reas especif\xEDcas que comp\xF5em todos
+    os jogos.\n"
+  imagemIlustrativa: {fileID: -886071706470004214, guid: 8d76b69f689f00e4380d24199c268e65, type: 3}

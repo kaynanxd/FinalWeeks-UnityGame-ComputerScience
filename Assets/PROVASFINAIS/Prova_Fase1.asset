@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d320ab5bea86257459c7f1d54bac771c, type: 3}
+  m_Name: Prova_Fase1
+  m_EditorClassIdentifier: Assembly-CSharp::ExamData
+  tituloDaProva: Prova de Organizacao De Computadores
+  notaMinimaParaAprovar: 3
+  questoes:
+  - enunciado: "PROVA FINAL DE ORGANIZACAO DE COMPUTADORES\n\n1)Durante essa fase
+      voc\xEA deve ter percebido as diferen\xE7as entre as portas l\xF3gicas e seus
+      nomes, diga qual a o nome da porta l\xF3gicas que inverte o valor de entrada:
+      exemplo ( 1 vir\xE1 0)"
+    alternativas:
+    - Not
+    - Xor
+    - Nand
+    - Implica
+    indiceCorreto: 0
+  - enunciado: "2)Qual das portas l\xF3gicas precisa que todas as suas entradas sejam
+      iguais para que assim ele possa sair por ela tbm. Exemplo: (1,1 saia 1)?"
+    alternativas:
+    - Nand
+    - Not
+    - Xor
+    - And
+    indiceCorreto: 3
+  - enunciado: "3) Pensando em como as portas l\xF3gicas s\xE3o e nas suas diferen\xE7as
+      marque a op\xE7\xE3o correta a baixo?"
+    alternativas:
+    - "NAND \xE9 a porta and e not em uma s\xF3 porta"
+    - " no not o estado que entra \xE9 o mesmo que sai"
+    - XOR resulta em 1 se as entradas forem iguais.
+    - " or \xE9 sempre usado para inverter o valor que entra "
+    indiceCorreto: 0
+  - enunciado: "4) Qual das portas l\xF3gicas abaixo s\xF3 precisa ter um n\xFAmero
+      1 em uma das suas entradas para a sa\xEDda ser 1"
+    alternativas:
+    - 'Xor '
+    - Nand
+    - or
+    - not
+    indiceCorreto: 2
+  - enunciado: "5) Qual a porta l\xF3gica que na express\xF5es l\xF3gicas a seguir
+      resulta nas sa\xEDdas mostradas, entrada 1, entrada 0, saida 1; entrada 0,
+      entrada 1 saida 1."
+    alternativas:
+    - Nand e or
+    - Not e and
+    - Xor e nand
+    - Or e not
+    indiceCorreto: 0

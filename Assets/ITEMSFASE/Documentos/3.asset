@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626e05ae1449df94e82432691d656da9, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  titulo: GDD
+  textoCompleto: "Dentro de empresas sejam elas grandes ou pequenas uma equipe respons\xE1nvel
+    pelo desenvolvimento de um jogo precisa ter a certeza que todos est\xE3o pensando
+    na mesma coisa antes de desenvolver ela, afinal vis\xF5es diferentes dentro de
+    uma equipe \xE9 completamente normal, mas quando  todos concordam com algo todos
+    devem saber com o que est\xE3o concordando e ainda ter uma vis\xE3o clara da
+    mesma, esse \xE9 o objetivo do documento connhecido como GDD ou Game Design Document.\n"
+  imagemIlustrativa: {fileID: -886071706470004214, guid: 8d76b69f689f00e4380d24199c268e65, type: 3}

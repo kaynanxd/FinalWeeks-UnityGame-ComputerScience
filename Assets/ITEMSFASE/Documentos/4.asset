@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 626e05ae1449df94e82432691d656da9, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  titulo: Tipos De Jogos
+  textoCompleto: "Quando falamos de jogos um leque de op\xE7\xF5es pode aparecer
+    na mente de todos que recebem essas perguntas, sejam jogos digitais ou at\xE9
+    mesmo jogos anal\xF3gicos, mas uma coisa que muitas vezes n\xE3o se \xE9 pensando
+    \xE9 qual tipo de jogo eu mais jogo e ainda melhor tem tipos de jogos diferentes?
+    afinal tipo de jogo e diferente de g\xEAnero de jogo\n\r\nJogo de Entreternimento:
+    jogo onde o crucial \xE9 divertir o jogador, com hist\xF3ria envolvente e personagem
+    tamb\xE9m\n\r\nJogo S\xE9rios: Tem como objetivo ensinar algum conhecimento ao
+    jogador, como exemplo esse que vc est\xE1jogando\n\r\nSimula\xE7\xE3o: Simular
+    algo da vida real a pilotar um avi\xE3o ou ainda corta a grama\r\nGamifica\xE7\xE3o:
+    Faz algo commo um jogo dentro de algo que normalmente n\xE3o \xE9 um jogo, como
+    o duolingo\n\nGamifica\xE7\xE3o: Faz algo como um jogo dentro de algo que normalmente
+    n\xE3o \xE9 um jogo, como o duolingo\r\n\n"
+  imagemIlustrativa: {fileID: -886071706470004214, guid: 8d76b69f689f00e4380d24199c268e65, type: 3}

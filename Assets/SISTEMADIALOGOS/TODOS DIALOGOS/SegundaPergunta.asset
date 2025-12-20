@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ee1954a57db5a4cab6e719f406ddb0, type: 3}
+  m_Name: SegundaPergunta
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  startNodeID: inicio
+  nodes:
+  - nodeID: inicio
+    sentences:
+    - characterName: ismayle
+      text: Vamos ver se voce realmente aprendeu o conteudo !
+      portrait: {fileID: -5173085456471911758, guid: 7e8e84c8cf833c746bd999fb0087dc7c, type: 3}
+      voiceSound: {fileID: 8300000, guid: 978171ddf3ec45544b30fc895971e91f, type: 3}
+    - characterName: ismayle
+      text: Aqui vai a segunda pergunta !
+      portrait: {fileID: -5173085456471911758, guid: 7e8e84c8cf833c746bd999fb0087dc7c, type: 3}
+      voiceSound: {fileID: 8300000, guid: 978171ddf3ec45544b30fc895971e91f, type: 3}
+    - characterName: ismayle
+      text: "Agora que voc\xEA sabe do sistema de avalia\xE7\xE3o que \xE9 usado
+        para jogos responda a afirmativa correta sobre ele:"
+      portrait: {fileID: -5173085456471911758, guid: 7e8e84c8cf833c746bd999fb0087dc7c, type: 3}
+      voiceSound: {fileID: 8300000, guid: 978171ddf3ec45544b30fc895971e91f, type: 3}
+    choices:
+    - text: "Ele s\xF3 avalia jogos digitais"
+      targetNodeID: errou
+      externalDialogue: {fileID: 0}
+    - text: Ele avalia cardgames
+      targetNodeID: errou
+      externalDialogue: {fileID: 0}
+    - text: "Ele avalia jogos tanto anal\xF3gicos como digitais "
+      targetNodeID: acertou
+      externalDialogue: {fileID: 0}
+    - text: Hoje em dia ele e obsoleto
+      targetNodeID: errou
+      externalDialogue: {fileID: 0}
+  - nodeID: acertou
+    sentences:
+    - characterName: ismayle
+      text: Muito bem, mas e so o aquecimento!
+      portrait: {fileID: -5173085456471911758, guid: 7e8e84c8cf833c746bd999fb0087dc7c, type: 3}
+      voiceSound: {fileID: 8300000, guid: 978171ddf3ec45544b30fc895971e91f, type: 3}
+    choices: []
+  - nodeID: errou
+    sentences:
+    - characterName: ismayle
+      text: Voce errou , Voce devia ter estudado mais ! irei perguntar novamente
+        fique preparado!
+      portrait: {fileID: -5173085456471911758, guid: 7e8e84c8cf833c746bd999fb0087dc7c, type: 3}
+      voiceSound: {fileID: 8300000, guid: 978171ddf3ec45544b30fc895971e91f, type: 3}
+    choices: []

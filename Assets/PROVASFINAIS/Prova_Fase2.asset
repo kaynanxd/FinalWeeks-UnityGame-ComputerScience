@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d320ab5bea86257459c7f1d54bac771c, type: 3}
+  m_Name: Prova_Fase2
+  m_EditorClassIdentifier: Assembly-CSharp::ExamData
+  tituloDaProva: Prova de Programacao Orientado A Objetos
+  notaMinimaParaAprovar: 3
+  questoes:
+  - enunciado: "PROVA FINAL DE P.A\n\n1)Qual tipo de vari\xE1vel voc\xEA usaria para
+      armazenar a idade de uma pessoa?"
+    alternativas:
+    - char
+    - int
+    - float
+    - string
+    indiceCorreto: 1
+  - enunciado: "2)Qual tipo de vari\xE1vel \xE9 mais adequado para armazenar a nota
+      8,5 de um aluno?"
+    alternativas:
+    - int
+    - float
+    - char
+    - string
+    indiceCorreto: 1
+  - enunciado: "3)Qual express\xE3o retorna verdadeiro se x for igual a 5?"
+    alternativas:
+    - if(x==5)
+    - if(x!=5)
+    - if(x>5)
+    - if(x<5)
+    indiceCorreto: 0
+  - enunciado: "4)Qual vari\xE1vel \xE9 correta para armazenar a letra inicial de
+      um nome?"
+    alternativas:
+    - string
+    - int
+    - char
+    - float
+    indiceCorreto: 2
+  - enunciado: "5)Qual express\xE3o retorna verdadeiro se a for igual a 1 ou b for
+      igual a 2?"
+    alternativas:
+    - if(a==1 && b==2)
+    - ' if(a==1 || b==2)'
+    - ' if(a!=1 || b!=2)'
+    - if(a==2 || b==1)
+    indiceCorreto: 1
