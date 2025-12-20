@@ -33,14 +33,13 @@ O jogo é dividido em **3 Fases**, cada uma representando uma prova/matéria dif
 1.  **O Sonho:** O jogador entra em um mundo onírico baseado no conteúdo da cadeira.
 2.  **O Desafio:** Mecânicas de plataforma e lógica onde o jogador deve resolver problemas (ex: acertar a porta lógica correta - AND, OR, NOT) para avançar.
 3.  **O Despertar (Quiz):** Ao final da fase, o aluno acorda e deve responder a questões teóricas na folha da prova para garantir a nota.
-
 ### 📸 Screenshots
 
-| Menu Inicial | mapa | fase1 | | fase2 | | fase3 | | fase3-chefe |
+| Menu Inicial | Mapa de Seleção | Fase 1 (Lógica) |
 |:---:|:---:|:---:|
-| ![Menu](screenshot/menu.jpg) | ![mapa](screenshot/menu2.jpg) | ![fase1](screenshot/gameplay1.jpg) | ![fase2](screenshot/gameplay2.jpg)| ![fase3](screenshot/gameplay3.jpg) | ![fase3-chefe](screenshot/gameplay4.jpg)  | 
-
----
+| ![Menu Inicial](screenshot/menu.jpg) | ![Mapa](screenshot/menu2.jpg) | ![Fase 1](screenshot/gameplay1.jpg) |
+| **Fase 2 (Plataforma)** | **Fase 3 (Desafio)** | **Chefe Final** |
+| ![Fase 2](screenshot/gameplay2.jpg) | ![Fase 3](screenshot/gameplay3.jpg) | ![Chefe](screenshot/gameplay4.jpg) |
 
 ## 🛠️ Tecnologias e Ferramentas
 
