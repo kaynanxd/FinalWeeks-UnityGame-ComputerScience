@@ -38,7 +38,7 @@ O jogo é dividido em **3 Fases**, cada uma representando uma prova/matéria dif
 
 | Menu Inicial | Fase de Lógica | O Quiz |
 |:---:|:---:|:---:|
-| ![Menu](https://via.placeholder.com/300x160?text=Menu+do+Jogo) | ![Gameplay](https://via.placeholder.com/300x160?text=Gameplay+Logica) | ![Quiz](https://via.placeholder.com/300x160?text=Hora+da+Prova) |
+| ![Menu](Screenshots/menu.png) | ![Gameplay](Screenshots/gameplay.png) | ![Gameplay](Screenshots/gameplay2.png) | ![Gameplay](Screenshots/gameplay3.png)| ![Quiz](Screenshots/menu.png) |
 
 ---
 
@@ -75,7 +75,7 @@ Projeto criado por alunos da UECE:
 * **Kaynan santos** - 
 * **Ana Beatriz** - 
 * **Luis Felipe** -
-* * **Hilbert Mardonio** 
+* **Hilbert Mardonio** 
 
 ---
 
