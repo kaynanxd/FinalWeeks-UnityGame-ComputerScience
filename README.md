@@ -35,10 +35,10 @@ O jogo é dividido em **3 Fases**, cada uma representando uma prova/matéria dif
 3.  **O Despertar (Quiz):** Ao final da fase, o aluno acorda e deve responder a questões teóricas na folha da prova para garantir a nota.
 ### 📸 Screenshots
 
-| Menu Inicial | Mapa de Seleção | Fase 1 (Lógica) |
+| Menu Inicial | Mapa de Seleção | Fase 1 (Portas Logicas) |
 |:---:|:---:|:---:|
 | ![Menu Inicial](screenshot/menu.jpg) | ![Mapa](screenshot/menu2.jpg) | ![Fase 1](screenshot/gameplay1.jpg) |
-| **Fase 2 (Plataforma)** | **Fase 3 (Desafio)** | **Chefe Final** |
+| **Fase 2 (Programacao e algoritmo)** | **Fase 3 (Desafio)** | **Chefe Final** |
 | ![Fase 2](screenshot/gameplay2.jpg) | ![Fase 3](screenshot/gameplay3.jpg) | ![Chefe](screenshot/gameplay4.jpg) |
 
 ## 🛠️ Tecnologias e Ferramentas
