@@ -37,7 +37,7 @@ O jogo é dividido em **3 Fases**, cada uma representando uma prova/matéria dif
 ### 📸 Screenshots
 
 | Menu Inicial | Fase de Lógica | O Quiz |
-|:---:|:---:|:---:|
+|:---:|:---:|:---:| :---:| :---:| :---:|
 | ![Menu](screenshot/menu.jpg) | ![Gameplay](screenshot/menu2.jpg) | ![Gameplay](screenshot/gameplay1.jpg) | ![Gameplay](screenshot/gameplay2.jpg)| ![Quiz](screenshot/gameplay3.jpg) | ![Gameplay](screenshot/gameplay3.jpg)  | ![Gameplay](screenshot/gameplay4.jpg)|
 
 ---
