@@ -72,9 +72,10 @@ Utilizamos um conjunto de ferramentas para dar vida ao projeto:
 
 Projeto criado por alunos da UECE:
 
-* **[Seu Nome Aqui]** - *Programador & Game Design*
-* **[Nome do Colega]** - *Artista & Roteirista*
-* **[Nome do Colega]** - *Sound Design & QA*
+* **Kaynan santos** - 
+* **Ana Beatriz** - 
+* **Luis Felipe** -
+* * **Hilbert Mardonio** 
 
 ---
 
@@ -82,5 +83,4 @@ Projeto criado por alunos da UECE:
 
 Este projeto é de uso acadêmico e educacional, desenvolvido para a disciplina de Extensão da UECE.
 
----
-*Desenvolvido com ☕ e desespero pré-prova.*
+
