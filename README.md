@@ -39,7 +39,7 @@ O jogo é dividido em **3 Fases**, cada uma representando uma prova/matéria dif
 
 > **💡 Dica:** Clique na primeira imagem para assistir à demonstração da lógica do jogo!
 
-| [![Vídeo de Gameplay](screenshot/menu.png)](https://www.youtube.com/watch?v=XMfzlVOL1_0) |
+| [![Vídeo de Gameplay](screenshot/menu.jpg)](https://www.youtube.com/watch?v=XMfzlVOL1_0) |
 |:---:|
 | 🎬 *ASSISTIR DEMONSTRAÇÃO DO TABULEIRO* |
 
