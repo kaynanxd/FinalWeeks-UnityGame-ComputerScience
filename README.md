@@ -45,9 +45,13 @@ O jogo é dividido em **3 Fases**, cada uma representando uma prova/matéria dif
 
 | Menu Inicial | Mapa de Seleção | Fase 1 (Portas Logicas) |
 |:---:|:---:|:---:|
-| ![Menu Inicial](screenshot/menu.jpg) | ![Mapa](screenshot/menu2.jpg) | ![Fase 1](screenshot/gameplay1.jpg) |
+| ![Menu Inicial](screenshot/dialogo.png) | ![Mapa](screenshot/menu2.jpg) | ![Fase 1](screenshot/gameplay1.jpg) |
 | **Fase 2 (Programacao e algoritmo)** | **Fase 3 (Desafio)** | **Chefe Final** |
 | ![Fase 2](screenshot/gameplay2.jpg) | ![Fase 3](screenshot/gameplay3.jpg) | ![Chefe](screenshot/gameplay4.jpg) |
+| **Fase 2 (Programacao e algoritmo)** | **Fase 3 (Desafio)** | **Chefe Final** |
+| ![Fase 2](screenshot/cena1.png) | ![Fase 3](screenshot/cena2.png) | ![Chefe](screenshot/cena3.png) |
+| **Fase 2 (Programacao e algoritmo)** | **Fase 3 (Desafio)** | **Chefe Final** |
+| ![Fase 2](screenshot/cena4.png) | ![Fase 3](screenshot/cena5.png) | ![Chefe](screenshot/cena7.png) |
 
 ## 🛠️ Tecnologias e Ferramentas
 
