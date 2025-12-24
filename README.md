@@ -41,7 +41,7 @@ O jogo é dividido em **3 Fases**, cada uma representando uma prova/matéria dif
 
 | [![Vídeo de Gameplay](screenshot/menu.jpg)](https://www.youtube.com/watch?v=XMfzlVOL1_0) |
 |:---:|
-| 🎬 *ASSISTIR DEMONSTRAÇÃO DO TABULEIRO* |
+| 🎬 *ASSISTIR DEMONSTRAÇÃO DO JOGO* |
 
 | Menu Inicial | Mapa de Seleção | Fase 1 (Portas Logicas) |
 |:---:|:---:|:---:|
