@@ -35,6 +35,14 @@ O jogo é dividido em **3 Fases**, cada uma representando uma prova/matéria dif
 3.  **O Despertar (Quiz):** Ao final da fase, o aluno acorda e deve responder a questões teóricas na folha da prova para garantir a nota.
 ### 📸 Screenshots
 
+
+
+> **💡 Dica:** Clique na primeira imagem para assistir à demonstração da lógica do jogo!
+
+| [![Vídeo de Gameplay](screenshot/menu.png)](https://www.youtube.com/watch?v=XMfzlVOL1_0) |
+|:---:|
+| 🎬 *ASSISTIR DEMONSTRAÇÃO DO TABULEIRO* |
+
 | Menu Inicial | Mapa de Seleção | Fase 1 (Portas Logicas) |
 |:---:|:---:|:---:|
 | ![Menu Inicial](screenshot/menu.jpg) | ![Mapa](screenshot/menu2.jpg) | ![Fase 1](screenshot/gameplay1.jpg) |
